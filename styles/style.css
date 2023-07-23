@@ -33,6 +33,7 @@
   list-style-type: none;
   margin: 8px 0 0;
   gap: 20px;
+  padding-left: 0;
 }
 
 .nav__link {
@@ -187,6 +188,7 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
+  margin: 0;
 }
 
 .person_name_feynman {
@@ -441,7 +443,7 @@
 
 .footer__column-heading {
   margin: 0 0 20px;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .footer__column-link {
